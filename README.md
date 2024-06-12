@@ -4,3 +4,6 @@ Frontend development:
 
 Backend development:
   - Nodejs, Express, MongoDB, Golang, Fiber, Python, Flask
+
+Other Skills:
+  - Adobe After Effects, 3ds max, Substance Painter, Adobe Photoshop
