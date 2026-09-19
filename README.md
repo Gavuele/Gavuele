@@ -1,46 +1,62 @@
-<img src="./assets/profile.png"
-     width="28%"
-     align="right"
-     alt="Profile art">
+<!-- ===================================================== -->
+<!--                    KONSTANTIN PROFILE                  -->
+<!--              C.C. / Code Geass inspired               -->
+<!-- ===================================================== -->
 
-# 👋 Hi, I'm YOUR_NAME
+<img
+  src="./assets/cc-main.png"
+  width="255"
+  align="right"
+  alt="C.C. chibi"
+/>
 
-**Software Engineering student · Developer · Creator**
+# Hi, I'm Konstantin 👋
 
-I build software, experiment with AI, and learn how systems work.
+### Software Engineering student @ HSE University, Moscow
 
-### 🧠 Currently learning
+`student` · `developer` · `builder` · `learning by making things`
 
-<pre>
-🐍 Python       ⚛️ React
-🇨 C             🐧 Linux
-🧮 Algorithms    🤖 AI Agents
-🌐 Backend       🗄️ Databases
-</pre>
+I'm a first-year **Software Engineering** student at  
+**HSE University — Faculty of Computer Science, Moscow**.
 
-### 🛠 My stack
+I enjoy building real projects while learning programming,
+computer science, Linux and mathematics.
+
+Currently exploring **web development, Python, AI tools,
+low-level programming and software engineering**.
+
+<br>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/HSE-University-8BC34A?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Software-Engineering-A5D66A?style=flat-square">
+  <img src="https://img.shields.io/badge/Moscow-Russia-6D9F3A?style=flat-square">
 </p>
-
-### 🚀 Projects
-
-**Fytarix Media Studio**  
-Media tools, browser extensions and automation.
-
-**AI Learning System**  
-Personal knowledge / learning environment.
-
-**Other experiments**  
-AI agents, graphics, automation and low-level programming.
 
 <br clear="right">
 
-<div align="center">
-  <img src="./assets/typing.gif" width="100">
-</div>
+---
+
+## 🎓 Currently studying
+
+<img
+  src="./assets/cc-study.png"
+  width="120"
+  align="right"
+  alt="C.C. studying"
+/>
+
+My current university / CS track includes:
+
+```text
+∫  Mathematical Analysis
+λ  Discrete Mathematics
+A  Algebra & Linear Algebra
+
+🐧 Linux Distributions
+⚙️ Introduction to Programming
+🧩 Introduction to Software Engineering
+
+🇨 C Programming
+💻 Assembly / low-level basics
+🇬🇧 Academic English
