@@ -1,14 +1,6 @@
-<!-- ===================================================== -->
-<!--                    KONSTANTIN PROFILE                  -->
-<!--              C.C. / Code Geass inspired               -->
-<!-- ===================================================== -->
+<!-- KONSTANTIN PROFILE · C.C. / Code Geass inspired -->
 
-<img
-  src="./assets/cc-main.png"
-  width="255"
-  align="right"
-  alt="C.C. chibi"
-/>
+<img src="./cc-main.png" width="255" align="right" alt="C.C.-inspired chibi">
 
 # Hi, I'm Konstantin 👋
 
@@ -25,38 +17,53 @@ computer science, Linux and mathematics.
 Currently exploring **web development, Python, AI tools,
 low-level programming and software engineering**.
 
-<br>
-
 <p>
-  <img src="https://img.shields.io/badge/HSE-University-8BC34A?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Software-Engineering-A5D66A?style=flat-square">
-  <img src="https://img.shields.io/badge/Moscow-Russia-6D9F3A?style=flat-square">
+  <img src="https://img.shields.io/badge/HSE-University-8BC34A?style=flat-square" alt="HSE University">
+  <img src="https://img.shields.io/badge/Software-Engineering-A5D66A?style=flat-square" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Moscow-Russia-6D9F3A?style=flat-square" alt="Moscow, Russia">
 </p>
 
 <br clear="right">
 
----
+<p align="center">
+  <img src="./cc-divider.png" width="720" alt="Chibi divider">
+</p>
 
 ## 🎓 Currently studying
 
-<img
-  src="./assets/cc-study.png"
-  width="120"
-  align="right"
-  alt="C.C. studying"
-/>
+<img src="./cc-study.png" width="150" align="right" alt="Chibi studying">
 
 My current university / CS track includes:
 
-```text
-∫  Mathematical Analysis
-λ  Discrete Mathematics
-A  Algebra & Linear Algebra
+- ∫ **Mathematical Analysis**
+- λ **Discrete Mathematics**
+- 🧮 **Algebra & Linear Algebra**
+- 🐧 **Linux Distributions**
+- ⚙️ **Introduction to Programming**
+- 🧩 **Introduction to Software Engineering**
+- 💻 **C Programming**
+- 🔧 **Assembly / Low-level Basics**
+- 🌍 **Academic English**
 
-🐧 Linux Distributions
-⚙️ Introduction to Programming
-🧩 Introduction to Software Engineering
+<br clear="right">
 
-🇨 C Programming
-💻 Assembly / low-level basics
-🇬🇧 Academic English
+## 💻 Development & interests
+
+<img src="./cc-code.png" width="150" align="right" alt="Chibi coding">
+
+### 🌐 Fytarix Media Studio
+
+Exploring **web development**, building interfaces
+and turning creative ideas into projects.
+
+### 🐍 Python & hackathons
+
+Using **Python** for prototypes, automation
+and solving problems during hackathons.
+
+### 🛠️ Beyond the classroom
+
+Experimenting with **Linux**, **AI tools**
+and **low-level programming**.
+
+<br clear="right">
