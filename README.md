@@ -4,7 +4,7 @@
 
 # Hi, I'm Konstantin 👋
 <img src="./cc-main.png" width="255" align="right" alt="C.C.-inspired chibi">
-### Software Engineering student @ HSE University, Moscow
+<b> Software Engineering student @ HSE University, Moscow </b>
 
 `student` · `developer` · `builder` · `learning by making things`
 
