@@ -1,9 +1,9 @@
 <!-- KONSTANTIN PROFILE · C.C. / Code Geass inspired -->
 
-<img src="./cc-main.png" width="255" align="right" alt="C.C.-inspired chibi">
+
 
 # Hi, I'm Konstantin 👋
-
+<img src="./cc-main.png" width="255" align="right" alt="C.C.-inspired chibi">
 ### Software Engineering student @ HSE University, Moscow
 
 `student` · `developer` · `builder` · `learning by making things`
