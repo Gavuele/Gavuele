@@ -4,7 +4,7 @@
 
 # Hi, I'm Konstantin 👋
 
-### Software Engineering student @ HSE University, Moscow
+ Software Engineering student @ HSE University, Moscow
 
 `student` · `developer` · `builder` · `learning by making things`
 
